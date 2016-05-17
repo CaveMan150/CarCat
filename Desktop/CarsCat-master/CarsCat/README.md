@@ -1,4 +1,4 @@
-# Plantalouge
+# CARSCAT
 In order to demo this web application you need to follow the instructions below
 
 Make sure you have the redistributables, if you don't wamp will not work and will give you an error read step 1
@@ -24,7 +24,7 @@ For more information here:
 http://stackoverflow.com/questions/34215395/wamp-wont-turn-green-vcruntime140-dll-error
 
 
-2. Copy this URL https://github.com/CaveMan150/Plantalouge.git
+2. Copy this URL https://github.com/CaveMan150/
 Go in netBeans and click on "Team" -> Git -> Clone -> Paste Repository URL 
 put your username and password if you want or you can leave it blank.
 
